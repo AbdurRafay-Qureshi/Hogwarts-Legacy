@@ -39,12 +39,6 @@ This Bakery Management System is a Python program designed to help manage orders
    python bakery_management_system.py
    ```
 
-## Screenshots
-
-![alt text](<Screenshot (62).png>)
- 
-
-
 ## Converted Into Executable (.exe)
 
 - The program can be converted into an executable (.exe) file using a tool like PyInstaller.
