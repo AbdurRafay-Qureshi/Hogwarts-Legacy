@@ -41,9 +41,9 @@ This Bakery Management System is a Python program designed to help manage orders
 
 ## Converted Into Executable (.exe)
 
-- The program can be converted into an executable (.exe) file using a tool like PyInstaller.
+- The program is converted into an executable (.exe) file, using a tool like PyInstaller.
 
-- After running PyInstaller, two additional folders will be created:
+-  It has 2 Folders:
   - `dist`: Contains the executable file and any necessary dependencies.
   - `build`: Contains intermediate build files generated during the conversion process.
 
