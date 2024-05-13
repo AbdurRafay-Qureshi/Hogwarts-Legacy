@@ -36,7 +36,7 @@ This Bakery Management System is a Python program designed to help manage orders
 
 3. Run the program using the following command:
    ```
-   python bakery_management_system.py
+   python script.py
    ```
 
 ## Converted Into Executable (.exe)
